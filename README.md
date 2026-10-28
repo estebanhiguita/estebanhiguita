@@ -29,7 +29,7 @@ I lead teams that build AI products and software, with a background in applied m
 | [gpt4-pdf-chatbot-langchain](https://github.com/estebanhiguita/gpt4-pdf-chatbot-langchain) | My fork of [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain): a GPT-4 and LangChain chatbot for large PDFs, which I used to study the pattern. |
 | [GestionSystem](https://github.com/estebanhiguita/GestionSystem) | Dart web app for administrable content (2015). |
 
-> Most of my recent work is private client and portfolio code, so it is not listed here. I'm happy to walk through architecture and decisions in an interview.
+> Most of my recent work is private client and portfolio code, so it is not listed here. Happy to talk architecture and AI — reach out on LinkedIn.
 
 ### Tools
 

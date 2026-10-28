@@ -2,7 +2,7 @@
 
 **CTO and AI technical leader · Mathematical Engineer (EAFIT) · Medellín, Colombia**
 
-I lead teams that build AI products and software, with a background in applied mathematics. Over a decade of experience: from founding a software company (Arista Dev, 2014–2022) to working as an external CTO for portfolio companies.
+I lead teams that build AI products and software, with a background in applied mathematics. Over a decade of experience: from founding a software company (Arista Dev, since 2013) to working as an external CTO for portfolio companies.
 
 📫 [LinkedIn](https://www.linkedin.com/in/estebanhiguita) · ✉️ estebanhiguita@gmail.com · 📍 Medellín, Colombia (UTC-5)
 
@@ -18,8 +18,9 @@ I lead teams that build AI products and software, with a background in applied m
 ### Currently
 
 - **CTO, Winter Kpital** (2024–present): external CTO for portfolio companies, technical review of investments, AI for finance.
-- **Technical Advisor and Board Member, After Dsign** (2023–present).
-- Before: Technical Lead and AI Specialist at Legal AI Latam (2023–2024), Lead Architect at Workep (2020–2021), Founder and CTO of Arista Dev (2014–2022).
+- **Founder and CTO, Arista Dev** (2013–present).
+- **Co-founder and Technical Advisor, After Co** (2022–present).
+- Before: Technical Lead and AI Specialist at Legal AI Latam (2023–2024), Lead Architect at Workep (2020–2021).
 
 ### Public repositories
 
